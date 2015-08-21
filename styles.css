@@ -1,0 +1,30 @@
+title {
+	font: 16px/18px bold verdana, sans-serif;
+}
+
+form {
+	font: 16px/18px bold verdana, sans-serif;
+	background-color: lightgray;
+	border: 1px solid #dddddd;
+	padding: 15px;
+	width: 400px;
+	margin: 30px auto;
+	
+}
+label {
+	float: left;
+	text-align: right;
+	margin-right: 15px;
+	width: 150px;
+}
+input {
+	display: block;
+}
+input[type=submit] {
+	margin: 20px 0 0 165px ;
+	padding:5px 15px; 
+	border:0 none;
+	cursor:pointer;
+	-webkit-border-radius: 5px;
+	border-radius: 5px; 
+}
